@@ -1,3 +1,6 @@
+
+{ "items": {
+
 [
   {
     "slika":"img/koledar.png",
@@ -15,3 +18,4 @@
     "besedilo":"Ne obrnite se stran! Preberite, kako ravnati, če opazite mučenje ali zanemarjanje živali."
   }
 ]
+}
