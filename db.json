@@ -1,22 +1,19 @@
-
-{ "items": {
-
-[
-  {
-    "slika":"img/koledar.png",
-    "naslov":"Dogodki in izobraževanja",
-    "besedilo":"Lepo vabljeni v našo družbo! Poglejte, kje in kdaj se lahko srečamo v živo."
-  },
-  {
-    "slika":"img/knjiga.png",
-    "naslov":"Koristna vsebina",
-    "besedilo":"Živalim lahko resnično pomagamo le, če imamo prave informacije."
-  },
-  {
-    "slika":"img/klicaj.png",
-    "naslov":"Prijave mučenja",
-    "besedilo":"Ne obrnite se stran! Preberite, kako ravnati, če opazite mučenje ali zanemarjanje živali."
-  }
-]
-}
+{
+    "items": [
+        {
+            "slika": "img/koledar.png",
+            "naslov": "Dogodki in izobraževanja",
+            "besedilo": "Lepo vabljeni v našo družbo! Poglejte, kje in kdaj se lahko srečamo v živo."
+        },
+        {
+            "slika": "img/knjiga.png",
+            "naslov": "Koristna vsebina",
+            "besedilo": "Živalim lahko resnično pomagamo le, če imamo prave informacije."
+        },
+        {
+            "slika": "img/klicaj.png",
+            "naslov": "Prijave mučenja",
+            "besedilo": "Ne obrnite se stran! Preberite, kako ravnati, če opazite mučenje ali zanemarjanje živali."
+        }
+    ]
 }
