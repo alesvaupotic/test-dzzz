@@ -1,5 +1,26 @@
+{
 
-{ "items": {
+  
+   "menu": {
+
+[
+    {
+        "naslov":"Ena",
+        "url":"/ena"
+      },
+      {
+        "naslov":"Dva",
+        "url":"/dva"
+      },
+      {
+        "naslov":"Tri",
+        "url":"/tri"
+      },
+    ]
+},
+  
+  
+  "items": {
 
 [
   {
@@ -19,4 +40,6 @@
   }
 ]
 }
+
+
 }
