@@ -1,7 +1,7 @@
 {
 
   
-   "menus": {
+   "menus": 
 
 [
     {
@@ -17,10 +17,10 @@
         "url":"/tri"
       },
     ]
-},
+,
   
   
-  "items": {
+  "items": 
 
 [
   {
@@ -39,7 +39,6 @@
     "besedilo":"Ne obrnite se stran! Preberite, kako ravnati, če opazite mučenje ali zanemarjanje živali."
   }
 ]
-}
 
 
 }
